@@ -8,3 +8,12 @@ heart_disease_prediction/
 ├── scaler.pkl                # Auto-created by model_training.py
 ├── requirements.txt
 └── README.md
+
+
+##Language Used:
+•	Language: Python
+•	ML Libraries: Pandas, NumPy, Matplotlib/Seaborn, Scikit-learn
+•	Model: Logistic Regression / Random Forest / XGBoost
+•	Deployment: Flask 
+•	Frontendl: Streamlit/HTML 
+
